@@ -13,6 +13,8 @@ public class Main {
 		System.out.println("Tania");
 		
 		System.out.println("Halo semua!");
+		
+		System.out.println("Jangan lupa kerjain mid project gess :)");
 
 	}
 
